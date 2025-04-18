@@ -25,7 +25,7 @@ const Hero = () => {
 
  const handleDownload = () => {
     const link = document.createElement("a");
-    link.href = "/suryanag-portfolio/surya-resume.pdf";
+    link.href = "/surya-resume.pdf";
     link.download = "surya-resume.pdf";
     document.body.appendChild(link); // Append the link to the document body
     link.click(); // Trigger the download
