@@ -59,5 +59,5 @@ Feel free to fork this repo and make it your own by:
 Updating the project details
 Adding more sections (like testimonials or certifications)
 Enhancing animations
-Adding a dark mode toggle....
+Adding a dark mode toggle..
 
