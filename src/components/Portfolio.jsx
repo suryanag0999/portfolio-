@@ -154,8 +154,8 @@ const projects = [
       title: "Ongoing & Upcoming Projects",
       description: "More projects and upcoming work are in progress. You can explore my current repositories on GitHub, and stay tuned for future updates — new projects will be added soon.",
       links: {
-        site: "https://github.com/suryanag0999/Python-projects",
-        github: "https://github.com/suryanag0999/Python-projects",
+        site: "https://github.com/suryanag0999",
+        github: "https://github.com/suryanag0999",
       },
     },
   ]
