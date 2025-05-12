@@ -145,8 +145,8 @@ const projects = [
       title: "Python Mini Projects Showcase",
       description: "A collection of beginner-friendly and intermediate Python projects to sharpen your programming, logic-building, and GUI skills.",
       links: {
-        site: "https://github.com/suryanag0999/e-commerce-backend",
-        github: "https://github.com/suryanag0999/e-commerce-backend",
+        site: "https://github.com/suryanag0999/Python-projects",
+        github: "https://github.com/suryanag0999/Python-projects",
       },
     },
     {
