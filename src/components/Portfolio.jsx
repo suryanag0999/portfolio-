@@ -153,7 +153,7 @@ const projects = [
     {
       img: project15,
       title: "Homely HUB",
-      description: "More projects and upcoming work are in progress. You can explore my current repositories on GitHub, and stay tuned for future updates — new projects will be added soon.",
+      description: "homely hub an holiday booking app",
       links: {
         site: "https://homely-hub-mern.netlify.app/",
         github: "https://github.com/suryanag0999/Homely-Hub-Mern",
